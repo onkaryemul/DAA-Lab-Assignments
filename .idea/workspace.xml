@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="946a461e-efbd-4751-b4c6-5b6679c2adf0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAA Lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment1/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment1/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment1/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment1/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment1/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment1/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment1/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment1/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment10/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment10/Example1A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment10/Example1B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment10/Example1C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment10/Example1D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment10/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment10/Example2A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment10/Example2B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment11/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment2/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment2/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment2/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment2/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment3/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment3/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment3/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment3/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment4/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment4/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment4/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment5/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment5/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment6/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment6/Example1B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment6/Example1C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment6/Example1D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment6/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment7/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment7/Example1A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment7/Example1B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment8/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment8/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment9/Example1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TN0mOmHNKBWNmDGpXloYMaAFfx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;462944&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Example2B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment10.Example2B" />
+      <module name="DAA Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example2B" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="946a461e-efbd-4751-b4c6-5b6679c2adf0" name="Changes" comment="" />
+      <created>1690868390787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690868390787</updated>
+    </task>
+    <servers />
+  </component>
+</project>
